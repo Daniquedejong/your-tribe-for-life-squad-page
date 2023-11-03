@@ -1,38 +1,77 @@
-# create-svelte
 
-Everything you need to build a Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/master/packages/create-svelte).
+# Werktijden aanwezigheidsoverzicht
 
-## Creating a project
+![image](https://github.com/Daniquedejong/proof-of-concept/assets/112856683/13251ccc-42f3-4977-88b9-9b9e09c0af85)
 
-If you're seeing this, you've probably already done this step. Congrats!
+## 📚 Inhoudsopgave
 
-```bash
-# create a new project in the current directory
-npm create svelte@latest
+* [Beschrijving](#beschrijving)
+* [Kenmerken](#kenmerken)
+* [Bronnen](#bronnen)
+* [Licentie](#licentie)
 
-# create a new project in my-app
-npm create svelte@latest my-app
-```
+## 🗒️ Beschrijving
+<strong>Werktijden 🖌️:</strong>
 
-## Developing
+<p>Ik heb een overzichtspagina gemaakt waarop je medewerkers kan zien. Hierop kunnen mensen in en uitklokken. De tijden zouden zichtbaar moeten worden.</p>
+  
+## 💻👨🏻‍💻👨🏼‍💻 Gebruik
 
-Once you've created a project and installed dependencies with `npm install` (or `pnpm install` or `yarn`), start a development server:
+Deze website kan je als werknemer gebruiken om in- of uit te checken en dit kan een werkgever ook doen.
 
-```bash
-npm run dev
+## 👩🏼‍💻👩🏾‍💻👨🏻‍💻👨🏼‍💻 Kenmerken
 
-# or start the server and open the app in a new browser tab
-npm run dev -- --open
-```
+Lijst met gebruikte tools, technieken en communicatie middelen.
+Dit project is gemaakt met Node, Express, EJS, progressive enhancement.
 
-## Building
+Wat is Node:
+Node.js is een software platform waarmee ontwikkelaars JavaScript kunnen gebruiken om applicaties te bouwen die op de computer kunnen draaien, net zoals in een webbrowser. Het biedt veel handige functies en is populair vanwege de snelle en efficiënte manier waarop het met data kan omgaan.
 
-To create a production version of your app:
+Wat is Express:
+Express is een framework voor Node.js waarmee ontwikkelaars gemakkelijk web-applicaties en API's kunnen bouwen. Het biedt veel handige tools en functies om het proces te versnellen en te vereenvoudigen, en kan worden aangepast aan de behoeften van elk project. Express is erg populair en wordt veel gebruikt in de ontwikkeling van webtoepassingen en server-side applicaties.
 
-```bash
-npm run build
-```
+Wat is EJS:
+EJS is een sjabloontaal waarmee ontwikkelaars dynamische HTML-pagina's kunnen maken in Node.js-applicaties. Het wordt gebruikt om variabelen, conditionele logica en herbruikbare componenten in HTML-pagina's in te voegen, waardoor het bouwen van webpagina's eenvoudiger en efficiënter wordt.
 
-You can preview the production build with `npm run preview`.
+Progressive Enhancement:
+Dit is een benadering van webdesign en ontwikkeling die zich richt op het bouwen van de kernfunctionaliteit van een website op een manier die werkt voor alle gebruikers, ongeacht hun apparaat of browsermogelijkheden.
 
-> To deploy your app, you may need to install an [adapter](https://kit.svelte.dev/docs/adapters) for your target environment.
+<ul>
+<li><strong>TOOLS 🧰:</strong></li>
+<li>VSCode</li>
+<li>Pen & Papier</li>
+<li>Laptop</li>
+</ul>
+
+<ul>
+<li><strong>GEBRUIKTE TECHNIEKEN 🛠️:</strong></li>
+<li>HTML</li>
+<li>CSS</li>
+<li>Javascript</li>
+<li>Node<li>
+</ul>
+
+<ul>
+<li><strong>COMMUNICATIE MIDDELEN 🗣️:</strong></li>
+<li>Microsoft Teams</li>
+ <li>Whatsapp</li>
+</ul>
+
+
+## 🌐 Bronnen
+
+<ul>
+
+<li>https://github.com//</li>
+
+<li>https://www.google.nl/</li>
+
+</ul>
+
+
+
+## 🔒 Licentie
+
+![GNU GPL V3](https://www.gnu.org/graphics/gplv3-127x51.png)
+
+This work is licensed under [GNU GPLv3](./LICENSE).
